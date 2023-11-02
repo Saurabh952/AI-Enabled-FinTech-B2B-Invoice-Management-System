@@ -1,0 +1,39 @@
+.header{
+    background-color: #283d4a;
+    color: white
+}
+
+.row{
+    background-color: #283d4a;
+    color: white;
+    font-size: 11px;
+}
+
+.data-div{
+    background-color: #283d4a;
+    color: white;
+}
+
+.MuiTablePagination-caption,.MuiTablePagination-selectRoot,.MuiTablePagination-selectIcon, .MuiIconButton-root, .MuiDataGrid-footerContainer {
+    color: white !important;
+}
+
+.MuiPopover-paper{
+    color: white !important
+}
+
+.MuiDataGrid-gridMenuList{
+    color: white !important;
+}
+
+.MuiDataGrid-columnHeaderTitle{
+    white-space: pre-wrap !important;
+}
+
+.MuiDataGrid-columnsContainer{
+    line-height: 18px !important;
+}
+
+.MuiDataGrid-root{
+    border: none !important;
+}

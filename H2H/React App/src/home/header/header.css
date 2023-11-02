@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: #2d4250;
+    height: 100px;
+    width: 100%;
+    z-index: 999;
+    box-shadow: 0px 0px 4px rgba(50, 50, 50, 0.75);
+}
+
+.abc{
+    height: 40px;
+    width: 220px; 
+    margin-top: 2px;
+    text-align: center;
+    margin-left: 16px;
+}
+
+.invoice-list{
+    margin: 10px 0 5px 16px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.abc-logo{
+    text-align: center;
+}
+
+.highradiusLogo{
+    height: 40px;
+    width: 200px;
+}
+
+.childHeader{
+    text-align: center;
+}

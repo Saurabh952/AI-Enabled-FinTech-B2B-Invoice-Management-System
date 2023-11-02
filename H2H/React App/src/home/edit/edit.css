@@ -1,0 +1,22 @@
+.MuiDialog-paper{
+    background-color: #2a3e4c !important;
+}
+
+.MuiFilledInput-underline{
+    background-color: white !important;
+}
+
+.Mui-focused{
+    color: #2179d0 !important;
+}
+
+.MuiDialogTitle-root{color: white}
+
+.buttons{
+    margin-top: 10px;
+}
+
+.MuiInputLabel-filled{
+    font-size: 12px !important;
+    font-weight: 500 !important;
+}

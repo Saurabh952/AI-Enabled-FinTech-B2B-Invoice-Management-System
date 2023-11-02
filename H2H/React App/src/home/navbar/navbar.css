@@ -1,0 +1,70 @@
+.navbar{
+    display: flex;
+    background-color: #283d4a;
+    height: 70px;
+    padding-inline: 10px;
+}
+
+.searchLabel{
+    position: absolute;
+}
+
+.MuiButton-label{
+    color: white;
+    font-size: 12px;
+}
+
+.MuiButton-outlined{
+    border-width: 1px !important;
+    border: 1px solid #14aff1 !important;
+    border-right-width: 1.5px !important;
+}
+
+.Mui-disabled{
+    border-color: #23343f !important;
+    border-left-width: normal !important;
+    border-width: 1.36px 1px 1.36px 1px !important
+}
+
+.MuiButton-outlined:hover{
+    background-color: #14aff1 !important;
+}
+
+.MuiList-root{
+    height: 100%;
+    background-color: #2b4657;
+}
+
+.MuiLink-underlineNone{
+    color: white !important;
+}
+
+.MuiDrawer-paperAnchorLeft{
+    width: 30%;
+}
+
+.navSearch{
+    width: 80%;
+}
+
+.search-div{
+    padding-right: 10px;
+    padding-left: 2px;
+    display: flex !important;
+}
+
+.refresh-button{
+    align-self: center;
+    border: 1px solid #14aff1 !important;
+    height: 30px;
+    border-radius: 5px !important;
+    margin-right: 4px !important;
+}
+
+.refresh-button:hover{
+    background-color: #14aff1 !important;
+}
+
+.disabled-true {
+    pointer-events: none;
+}
